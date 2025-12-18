@@ -1,4 +1,2 @@
 # sira
-hi
-hello
-how are you
+iam staying in sira
